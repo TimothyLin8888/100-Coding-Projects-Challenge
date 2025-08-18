@@ -29,3 +29,8 @@ Improve the UI with animations or better styling
 Allow more Pokémon selection options
 
 Add shiny odds tracking and attempt history
+
+## Screenshot
+<p align="center">
+  <img width="1919" height="902" alt="Screenshot 2025-08-18 144727" src="https://github.com/user-attachments/assets/78b85f2b-8c21-4ce9-814f-93833e4e23c6" />
+</p>
