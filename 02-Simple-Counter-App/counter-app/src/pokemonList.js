@@ -1,0 +1,15 @@
+export const pokemonList = [
+  { id: 1, name: "bulbasaur" },
+  { id: 4, name: "charmander" },
+  { id: 7, name: "squirtle" },
+  { id: 25, name: "pikachu" },
+  { id: 39, name: "jigglypuff" },
+  { id: 94, name: "gengar" },
+  { id: 133, name: "eevee" },
+  { id: 150, name: "mewtwo" },
+  { id: 151, name: "mew" },
+  { id: 282, name: "gardevoir" },
+  { id: 722, name: "the best one"},
+  { id: 723, name: "Dartrix"},
+  { id: 724, name: "Decidueye"},
+];
