@@ -2,15 +2,17 @@
 This repository documents my journey through the 100 Coding Project Challenge, where I progressively build projects that range from simple applications to more complex systems. The challenge is designed to showcase my growth across various domains of Software Engineering, Data Science, and AI Development.
 
 ## Project Difficulty:
-    - Beginner Projects (1-20): Simple projects that help me learn the basics of web development, data science, and AI.
-    - Intermediate Projects (21-50): Projects that introduce more complexity, incorporating additional frameworks and libraries.
-    - Advanced Projects (51-90): These projects focus on advanced techniques, full-stack development, and deeper AI/machine learning applications.
-    - Mastery Projects (91-100): High-level projects that involve system design, advanced AI algorithms, and cutting-edge technologies.
+- Beginner Projects (1-20): Simple projects that help me learn the basics of web development, data science, and AI.
+- Intermediate Projects (21-50): Projects that introduce more complexity, incorporating additional frameworks and libraries.
+- Advanced Projects (51-90): These projects focus on advanced techniques, full-stack development, and deeper AI/machine learning applications.
+- Mastery Projects (91-100): High-level projects that involve system design, advanced AI algorithms, and cutting-edge technologies.
+
+## Current Progress: 2/100
 
 ## Projects:
-* 01 - User Authentication System (Django)
-* 02 - Simple Counter App (React)
-* 03 - Blog with Simple CRUD Operations (Django)
+* 01 - User Authentication System (Django) — Done
+* 02 - Simple Counter App (React) — Done
+* 03 - Blog with Simple CRUD Operations (Django) — In Progress
 * 04 - Simple To-Do List (React)
 * 05 - Personal Expense Tracker (Django + SQL)
 * 06 - Simple Calculator (React)
